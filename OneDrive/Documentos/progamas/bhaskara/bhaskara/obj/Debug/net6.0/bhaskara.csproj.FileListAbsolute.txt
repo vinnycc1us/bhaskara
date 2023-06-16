@@ -1,0 +1,15 @@
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\bin\Debug\net6.0\bhaskara.exe
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\bin\Debug\net6.0\bhaskara.deps.json
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\bin\Debug\net6.0\bhaskara.runtimeconfig.json
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\bin\Debug\net6.0\bhaskara.dll
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\bin\Debug\net6.0\ref\bhaskara.dll
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\bin\Debug\net6.0\bhaskara.pdb
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.csproj.AssemblyReference.cache
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.AssemblyInfoInputs.cache
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.AssemblyInfo.cs
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.dll
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\obj\Debug\net6.0\ref\bhaskara.dll
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.pdb
+C:\Users\2022102020012\Documents\logica de progamação\progamas\bhaskara\bhaskara\obj\Debug\net6.0\bhaskara.genruntimeconfig.cache
